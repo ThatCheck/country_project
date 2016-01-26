@@ -31,5 +31,5 @@
       <user username="both" password="tomcat" roles="tomcat,role1"/>
       <user username="role1" password="tomcat" roles="role1"/>
     -->
-    <user username="user8" password="user8" roles="tomcat"/>
+    <user username="user8" password="user8" roles="manager-gui,tomcat"/>
 </tomcat-users>
